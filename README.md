@@ -37,4 +37,9 @@ The code is implemented from work [Yao,A,Gall,J,2012]
 
 [J.Gall,2013] Yao, A., Gall, J., Leistner, C., & Van Gool, L. (2012, June). Interactive object detection. In Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on (pp. 3242-3249). IEEE.
 
+Web application is adapted from [A.Dutta,A.Gupta,2016]
+
+[A.Dutta,A.Gupta,2016] A. Dutta, A. Gupta, and A. Zissermann, “Vgg image annotator via.”
+http://www.robots.ox.ac.uk/ vgg/software/via/, 2016. Accessed: 2018-03-02.
+
 
