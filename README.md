@@ -14,16 +14,23 @@ Python 2.7
 Flask 0.12.2
 
 ## Usage
-⋅⋅* Install Hough Forest library from https://github.com/classner/fertilized-forests.
-⋅⋅* Copy interactive_object_detection/fertilized-forests/examples/python to fertilized-forests/examples/python folder after installation.
-⋅⋅* Run fertilized-forests/examples/python/hough_experiment.py for Active learning experiment.
-⋅⋅* Run fertilized-forests/examples/python/hough_app.py Flask framework based web application for interactive detection. 
+* Install Hough Forest library from https://github.com/classner/fertilized-forests.
+* Copy interactive_object_detection/fertilized-forests/examples/python to fertilized-forests/examples/python folder after installation.
+* Run fertilized-forests/examples/python/hough_experiment.py for Active learning experiment.
+* Run fertilized-forests/examples/python/hough_app.py Flask framework based web application for interactive detection. 
+
+## Web application for interactive detection
+
+Screenshot of the web application for interactive detection.
+
+![](https://github.com/priyankavokuda/interactive_object_detection/blob/master/images/web_app.png)
 
 ## Results
 
 ![](https://github.com/priyankavokuda/interactive_object_detection/blob/master/images/example_output.png)
 
 Hough forest library from work [Lassner,C,Lienhart,R,2015]
+
 [Lassner,C,Lienhart,R,2015] Lassner, C., & Lienhart, R. (2015, October). The fertilized forests decision forest library. In Proceedings of the 23rd ACM international conference on Multimedia (pp. 681-684). ACM.
 
 The code is implemented from work [Yao,A,Gall,J,2012]
